@@ -1,0 +1,1 @@
+# Model-EfficientNetV2S-for-Tumor-Detecting-
